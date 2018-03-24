@@ -1,0 +1,4 @@
+[Project]
+Name=YUVTransform
+Manager=KDevCMakeManager
+VersionControl=kdevgit
